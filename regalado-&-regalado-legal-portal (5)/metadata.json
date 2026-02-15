@@ -1,0 +1,5 @@
+{
+  "name": "Regalado & Regalado Legal Portal",
+  "description": "A secure portal for clients of the Regalado & Regalado law firm to view case information and activity logs. This application features a robust two-factor authentication system using Supabase.",
+  "requestFramePermissions": []
+}
